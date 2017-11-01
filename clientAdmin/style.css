@@ -1,0 +1,21 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/antd/2.13.4/antd.min.css");
+@import  url("https://cdnjs.cloudflare.com/ajax/libs/antd/2.13.4/antd.min.css.map");
+
+#image ::selection{
+    border: 2px solid black
+}
+
+#image :hover{
+    border: 2px solid black
+}
+
+#image::-webkit-keygen-select{
+    border: 2px solid black
+}
+
+.red-toast{
+  background: red;
+  color: #fff;
+}
+
+
